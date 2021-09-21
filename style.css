@@ -20,10 +20,10 @@ footer {
     position: relative;
     width: 100%;
     height: auto;
-    padding: 20px 30px;
+    padding: 0 30px;
     background-color: #111;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
 }
 
